@@ -54,8 +54,9 @@
     "tcp-port-used": "^1.0.1"
   },
   "devDependencies": {
+    "@fastcoder/eslint-config-ts": "^1.0.5",
     "babel-eslint": "^10.0.3",
-    "eslint": "^5.13.0",
+    "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-html": "^5.0.3",
     "eslint-plugin-import": "^2.18.2",
@@ -66,7 +67,8 @@
     "lint-staged": "^8.2.1",
     "prettier": "^1.18.2",
     "prettier-eslint-cli": "^4.7.1",
-    "should": "^13.2.3"
+    "should": "^13.2.3",
+    "typescript": "^5.0.4"
   },
   "husky": {
     "hooks": {
